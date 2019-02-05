@@ -97,7 +97,7 @@ while True:
         unpack_archive(tfile.name, home_directory, format = 'zip')
     institution_dictionary_path = url_to_docpath(zipurl, home_directory, 'csv')
 
-    # Download unzip ans save .do with instructions for creation of institutions dataset
+    # Download unzip and save .do with instructions for creation of institutions dataset
     zipurl = institution_do_url
     with urlopen(zipurl) as zipresp, NamedTemporaryFile() as tfile:
         tfile.write(zipresp.read())

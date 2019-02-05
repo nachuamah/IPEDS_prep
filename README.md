@@ -18,6 +18,6 @@ In order to run this script, you will need the following python libraries:
         9.  os
 
 
-To run the script, fork/branch the repository or download the .py file to the folder/location in which you would like the stata file to be created. Then run the script from your IDE or through the command line (after moving to the working directory).
+To run the script, fork/branch the repository or download the .py file to the folder/location in which you would like the stata file to be created. Then you must run the script through the command line, after moving to the working directory, as you will have to input the year shortly after running the script.
 
 Best of luck!

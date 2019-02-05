@@ -1,2 +1,6 @@
 # IPEDS_prep
-Using Python, I created a script to download, unzip, prepare, and merge IPEDS graduation data with IPEDS Institution characteristic data for any year the National Center for Education Statistics (NCES).
+This script automates the download, unzipping, preparation, and merging of Integrated Postsecondary Education Data System (IPEDS) graduation data with IPEDS Institution characteristic data for any year the National Center for Education Statistics (NCES) collected information.
+
+In order to run this script, you will need the following python libraries:
+
+    1. 

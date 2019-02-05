@@ -3,4 +3,12 @@ This script automates the download, unzipping, preparation, and merging of Integ
 
 In order to run this script, you will need the following python libraries:
 
-    1. 
+    1. urllib
+    2. tempfile
+    3. shutil
+    4. re
+    5. io
+    6. subprocess
+    7. time
+    8. sys
+    9. os
